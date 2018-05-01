@@ -2,6 +2,8 @@
 
 Adds common digests by wrapping OpenSSL.
 
+Note: This library is not thread-safe.
+
 
 ## Installation
 
